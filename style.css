@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 body {
+    font-family: 'Lobster', cursive;
     text-align: center;
     background: rgba(189, 19, 19, 0.74)
 }
